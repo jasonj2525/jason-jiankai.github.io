@@ -17,10 +17,10 @@ resume_title:                   "PhD candidate of unimelb"
 resume_contact_email:           "jinkai2525@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+# resume_contact_telephone:       "555-7334"
+# resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+# resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Hi, this is Jiankai, a PhD student from the University of Melbourne.</p>"
