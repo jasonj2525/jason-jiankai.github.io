@@ -3,4 +3,4 @@
   title: Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems
   conference: In 2022 IEEE Symposium on Security and Privacy (SP), pp. 473-488.
   year: 2022
-  comment: This study has attacked Meta’s Opacus library for Pytorch and Google's Differential Privacy library. Meta has since fixed the <a href="https://github.com/pytorch/opacus/blob/main/opacus/optimizers/optimizer.py" target="_blank">issue</a> and Google acknowledged our finding via Google Bug Hunter. One Author (Olga) of this paper is invited to present this paper in Google TechTalk.
+  comment: This study has attacked Meta’s Opacus library for Pytorch and Google's Differential Privacy library. Meta has since fixed the <a href="https://github.com/pytorch/opacus/blob/main/opacus/optimizers/optimizer.py" target="_blank">issue</a> and Google acknowledged our finding via <a href="https://bughunters.google.com/profile/1e5f9da7-e8d5-42dc-be8b-cc576152232a" target="_blank">Google Bug Hunter</a>. One Author (Olga) of this paper is invited to present this paper in <a href="https://www.youtube.com/watch?v=F_97aqMUtnY&ab_channel=GoogleTechTalks" target="_blank">Google TechTalk</a>.
