@@ -1,8 +1,8 @@
-- skill: Big Data Management
-  description: SQL, Redis, ElasticSearch, Spark, Flink.
+- skill: Big Data Computation
+  description: I did a lot of big data computation in my previous job, using tools such as SQL, Redis, ElasticSearch, Spark, and Flink.
 
 - skill: Machine Learning
   description: Experience of working with Deep Learning (such as Transformer and ResNet), Ensemble Learning (such as XGBoost), using frameworks such as TensorFlow, PyTorch.
 
 - skill: Development 
-  description: Java, Python, Scala, Go, C++, Bash
+  description: I can develop programs with Java, Python, Scala, Go, C++, and Bash.
