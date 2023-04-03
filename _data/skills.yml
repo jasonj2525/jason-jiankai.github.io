@@ -1,12 +1,8 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Big Data Management
+  description: SQL, Redis, ElasticSearch, Spark, Flink.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Machine Learning
+  description: Experience of working with Deep Learning (such as Transformer and ResNet), Ensemble Learning (such as XGBoost), using frameworks such as TensorFlow, PyTorch.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Development 
+  description: Java, Python, Scala, Go, C++, Bash
