@@ -1,6 +1,10 @@
 # Jobs
 # VP of Global Communications
-- company: Inke
+- company: Inke (Beijing)
   position: AI Lab, Machine Learning Engineer 
   duration: 2020-2021
   summary: "I work on the recommendation systems of dating apps such as SoulMatch and ChatRight. My job includes: Design of recommendation systems; big data management using Hive, Redis, Spark, Flink, and ElasticSearch; feature engineering, training and deployment of machine learning models offline (XGBoost) and online (DeepFM). Click through rates and conversion rates of those apps improve up to 300%."
+- company: Bairong (Beijing)
+  position: AI Lab, Machine Learning Engineer (Intern) 
+  duration: "2019"
+  summary: "I work on the Bairong Federated Machine Learning Platform. My job includes: Deployment of the Bairong Federated Machine Learning Platform, frontend and backend development, test and optimization of machine learning models, development of customized feature engineering modules."
