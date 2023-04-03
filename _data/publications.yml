@@ -1,10 +1,6 @@
 # Publications
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
-
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- authors: Jiankai Jin, Eleanor McMurtry, Benjamin I. P. Rubinstein, and Olga Ohrimenko. 
+  title: Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems
+  conference: In 2022 IEEE Symposium on Security and Privacy (SP), pp. 473-488.
+  year: 2022
+  comment: This study has attacked the Meta’s Opacus library for Pytorch and Google's Differential Privacy library. Meta has since fixed the issue and Google acknowledged our finding via Google Bug Hunter. One Author (Olga) of this paper is invited to present this paper in Google TechTalk.
