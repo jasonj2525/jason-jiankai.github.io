@@ -134,11 +134,12 @@
           <h2>Awards</h2>
         </header>
         
-        {% for award in site.data.awards %}
         <div class="resume-item">
+          {% for award in site.data.awards %}
           <b>{{ award.description }}</b>
+          {% endfor %}
         </div>
-        {% endfor %}
+        
       </section>
       <!-- end Awards -->
       {% endif %}
