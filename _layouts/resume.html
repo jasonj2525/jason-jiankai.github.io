@@ -135,11 +135,9 @@
         </header>
 
         <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for award in site.data.awards %}
-            <h4>{{ award.description }}</h4>
-            {% endfor %}
-          </ul>
+          {% for award in site.data.awards %}
+          <h4>{{ award.description }}</h4>
+          {% endfor %}
         </div>
 
       </section>
